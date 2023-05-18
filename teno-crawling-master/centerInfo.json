@@ -1,0 +1,137 @@
+[
+    {
+        "name" : "마루공원",
+        "address" : "서울특별시 강남구 개포로 625(일원동)",
+        "district" : "강남구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "22:00:00",
+        "playTime" : "01:00:00"
+    },
+    {
+        "name" : "서남물재생센터",
+        "address" : "서울특별시 강서구 양천로 201(마곡동)",
+        "district" : "강서구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "22:00:00",
+        "playTime" : "01:00:00"
+    },{
+        "name" : "난지물재생센터",
+        "address" : "경기 고양시 덕양구 대덕로 426(현천동)",
+        "district" : "고양시",
+        "centerStartTime" : "09:00:00",
+        "centerEndTime" : "18:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "어린이대공원",
+        "address" : "서울특별시 광진구 능동로 216(능동)",
+        "district" : "광진구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "22:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "계남근린공원",
+        "address" : "서울 구로구 고척동 산6-1",
+        "district" : "구로구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "18:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "계남근린공원(야외)",
+        "address" : "서울 구로구 고척동 산6-1",
+        "district" : "구로구",
+        "centerStartTime" : "07:00:00",
+        "centerEndTime" : "21:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "신도림테니스장",
+        "address" : "서울특별시 구로구 신도림동 276-4",
+        "district" : "구로구",
+        "centerStartTime" : "07:00:00",
+        "centerEndTime" : "21:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "보라매공원테니스장",
+        "address" : "서울특별시 동작구 여의대방로20길 33(신대방동)",
+        "district" : "동작구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "18:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "월드컵공원",
+        "address" : "서울특별시 마포구 월드컵로 243-60(성산동)",
+        "district" : "마포구",
+        "centerStartTime" : "07:00:00",
+        "centerEndTime" : "19:00:00",
+        "playTime" : "01:00:00"
+    },
+    {
+        "name" : "서울숲",
+        "address" : "서울특별시 성동구 뚝섬로 273(성수동1가)",
+        "district" : "성동구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "19:00:00",
+        "playTime" : "01:00:00"
+    },
+    {
+        "name" : "응봉공원",
+        "address" : "서울특별시 성동구 금호로 172-1(금호동1가)",
+        "district" : "성동구",
+        "centerStartTime" : "07:00:00",
+        "centerEndTime" : "19:00:00",
+        "playTime" : "01:00:00"
+    },
+    {
+        "name" : "잠실유수지 소프트테니스장",
+        "address" : "서울특별시 송파구 탄천동로 211(잠실동)",
+        "district" : "송파구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "14:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "대림테니스장",
+        "address" : "서울특별시 영등포구 가마산로31길 16",
+        "district" : "영등포구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "18:00:00",
+        "playTime" : "01:00:00"
+    },
+    {
+        "name" : "인재개발원 테니스장",
+        "address" : "서울특별시 서초구 남부순환로340길 58(서초동)",
+        "district" : "서초구",
+        "centerStartTime" : "13:00:00",
+        "centerEndTime" : "19:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "삼청테니스장",
+        "address" : "서울특별시 종로구 삼청로 156(삼청동)",
+        "district" : "종로구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "21:00:00",
+        "playTime" : "02:00:00"
+    },
+    {
+        "name" : "탄천물재생센터",
+        "address" : "서울특별시 강남구 개포로 625(일원동)",
+        "district" : "강남구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "22:00:00",
+        "playTime" : "01:00:00"
+    },
+    {
+        "name" : "중랑물재생센터",
+        "address" : "서울특별시 성동구 자동차시장3길 64(용답동, 중랑물재생센터)",
+        "district" : "중랑구",
+        "centerStartTime" : "06:00:00",
+        "centerEndTime" : "22:00:00",
+        "playTime" : "01:00:00"
+    }
+]

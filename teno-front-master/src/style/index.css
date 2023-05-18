@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+@import "~tui-calendar/dist/tui-calendar.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+
+body{
+  font-family: 'Noto Sans KR', sans-serif;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.ant-input{ resize: none; }
