@@ -11,8 +11,7 @@ def seoul_login(driver: selenium.webdriver.chrome.webdriver.WebDriver, url: str)
     driver.get(url)
     # 로그인 페이지로 이동
     driver.find_element(By.XPATH, '//*[@id="header"]/div[1]/div/div[1]/a').click()
-    user_id = 'garamminchan'
-    user_pw = 'cksrl0310~'
+   
 
     id_box = driver.find_element(By.CSS_SELECTOR, '#userid')
     pw_box = driver.find_element(By.CSS_SELECTOR, '#userpwd')
